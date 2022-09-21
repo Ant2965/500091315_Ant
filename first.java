@@ -2,8 +2,8 @@ class Main
 {
 public static void main(String args[])
 {
-dailyworker d=new dailyworker(254,"Arjun",75);
-salariedworker s=new salariedworker(666,"Unni",100);
+dailyworker d=new dailyworker(254,"Ant",695);
+salariedworker s=new salariedworker(666,"Dhruv",69);
 d.compay(45);
 s.compay();
 }
